@@ -2,7 +2,7 @@
 
 ### Diseño principal
 ---
-![Imagen de WhatsApp 2024-09-03 a las 14 43 20_691ba140](https://github.com/user-attachments/assets/35d522a9-814c-487b-aef7-46116864ce6d)
+![Imagen de WhatsApp 2024-09-04 a las 15 13 41_244f281f](https://github.com/user-attachments/assets/80f452c8-ff2e-4d1d-80af-494e54182ee2)
 
 ### Lista de tecnologias implementadas
 ---
